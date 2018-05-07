@@ -1,7 +1,7 @@
 # The Clapper
 
-<div style="width: 40%">
+<!-- <div style="width: 40%"> -->
     ![alt text](../master/images/clapper.jpg?raw=true "The clapper circuit")
-</div>
+<!-- </div> -->
 
 A simple version of a clapper style relay using a MEMS microphone.
